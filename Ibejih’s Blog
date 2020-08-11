@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Ibejih's Blog</title>
+		<link href="https://fonts.googleapis.com/css?family=Tangerine|Inconsolata|Droid+Sans rel="stylesheet">
+	</head>
+	
+	<body>
+		<!-- header start -->
+		<div id="header" class="section">
+			<img alt="" class="img-circle" src="https://i.ibb.co/F0XmdHP/52775-EB0-59-C3-48-AE-8-ACA-771-DC23-DACED.jpg"">
+			<p>Ibejih Chukwuka .D.</p>
+		</div>
+		<!-- header end -->
+		
+		<!-- About Me section start -->
+		<div class="section">
+			<h1><span>About Me</span></h1>
+			<p>
+				Hello, I'm <strong>Ibejih</strong> and I'm a Graphic Designer and a  newbie in web development. Coding has changed my world. It's not just about apps. Learning to code gave me <i>problem-solving skills</i> and a way to communicate with others on a technical level. With my experience in graphic designing, i approach graphic designing from a different perspective. 
+			</p>
+		</div>
+		<!-- About Me section end -->
+		
+		<!-- My Skills -->
+			<h1><span>My Skills</span></h1>
+			<ul>
+				<li>HTML <br />
+					<progress min="0" max="100" value="80"></progress>
+				</li>
+				<li>CSS <br />
+					<progress min="0" max="100" value="60"></progress>
+				</li>
+				<li>Javascript <br />
+					<progress min="0" max="100" value="30"></progress>
+				</li>
+				<li>Photoshop <br />
+				<progress min="0" max="100" value="75"</progress>
+			   <li> Illustrator <br />	<progress min="0" max="100" value="66"</progress>
+			   </li>
+				</li>
+			</ul>
+		</div>
+		<!-- My Skills section end -->
+	
+	
+		 <!-- Media section start -->
+		<div class="section">
+			<h1><span>My Designs</span></h1>
+			<div class="images">
+			 <img class="media"src="https://i.ibb.co/BHJ85jy/A25589-EE-416-F-464-B-B4-B0-36-B96-C3-BC342.jpg"/></br>
+
+			<img class="media_1" src="https://i.ibb.co/Z10pvjz/59964-B09-E3-DD-429-F-BD0-B-D46-C3-E5198-E8.jpg"/></br>
+
+			<img class="media_2"src="https://i.ibb.co/2knTyYm/FCC2-E4-BA-63-AB-4365-8937-44563-F0-A9-D7-A.jpg"/></br>
+
+			<img class="media_3"src="https://i.ibb.co/kqgCk8K/FAB1-C2-CD-F32-C-4841-95-FD-26153-C4-AC341.jpg"/></br>
+
+			<img class="media_4"src="https://i.ibb.co/RGXDB3Z/A6-B1-F48-E-30-C5-497-D-AAA1-0-DEAF920-CE20.jpg”/></br>
+
+			<img class="media_5"src="https://i.ibb.co/B3bZR0P/0-A2-FB1-E4-F1-B8-4-D25-BA81-8570-D713-E266.jpg"/></br>
+</div>
+			 </div>
+			 
+		 
+		 </section>
+		<!-- Media section end -->
+		
+		<!-- Form section start -->
+	   <div class="section">
+			<h1><span>Contact Me</span></h1>
+			
+				<circle cx="50" cy="50" r="50" fill="#FDD835"/>
+				<circle cx="30" cy="30" r="10" fill="#FFFFFF"/>
+				<circle cx="70" cy="30" r="10" fill="#FFFFFF"/>
+				<circle cx="30" cy="30" r="5" fill="#000000"/>
+				<circle cx="70" cy="30" r="5" fill="#000000"/>
+				<path d="M 30 70 q 20 20 40 0" stroke="#FFFFFF" stroke-width="5" fill="none" />
+			</svg>
+				 
+			<form>
+				<input name="name" placeholder="Name" type="text" required /><br/>
+				<input name="email" placeholder="Email" type="email" required /><br/>
+				<textarea name="message" placeholder="Message" required ></textarea>
+				<input type="submit" value="SEND" class="submit" />
+			</form>
+		</div>
+		<!-- Form section end -->
+		
+		<!-- Contacts section start -->
+		<div class="section" id="contacts">
+			<h1><span>Follow Me</span></h1>
+			<div>
+			
+				</a>
+				<a href="https://m.facebook.com/emrys.ibejih.5">
+					<img alt="Facebook" src="https://www.sololearn.com/Uploads/icons/facebook.png"/>
+				</a>
+				<a href="https://mobile.twitter.com/Ibejih1">
+					<img alt="Twitter" src="https://www.sololearn.com/Uploads/icons/twitter.png" />
+				</a>
+			</div>
+		</div>
+		<!-- Contacts section end -->
+		
+		<div class="copyright">
+			&copy; 2020 My Blog. All rights reserved.
+		</div>
+		
+	</body>
+</html>
